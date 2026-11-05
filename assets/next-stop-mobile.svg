@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="134" viewBox="0 0 600 134" role="img" aria-labelledby="title">
+  <title id="title">Next stop: something new.</title>
+  <rect width="600" height="134" rx="6" fill="#162130"/>
+  <path d="M28 67h60" stroke="#ff9c90" stroke-width="2"/>
+  <circle cx="28" cy="67" r="5" fill="#ff9c90"/>
+  <circle cx="88" cy="67" r="5" fill="#162130" stroke="#ff9c90" stroke-width="2"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="123" y="51" font-size="20" letter-spacing="3" fill="#ffb4a8">NEXT STOP</text>
+    <text x="123" y="95" font-size="34" font-weight="600" fill="#f1f2f5">Something new.</text>
+  </g>
+</svg>
